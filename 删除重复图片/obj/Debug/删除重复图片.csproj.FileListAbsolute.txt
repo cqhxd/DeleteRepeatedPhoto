@@ -1,0 +1,13 @@
+D:\删除重复图片\删除重复图片\bin\Debug\删除重复图片.exe.config
+D:\删除重复图片\删除重复图片\bin\Debug\删除重复图片.exe
+D:\删除重复图片\删除重复图片\bin\Debug\删除重复图片.pdb
+D:\删除重复图片\删除重复图片\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\删除重复图片\删除重复图片\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\删除重复图片\删除重复图片\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\删除重复图片\删除重复图片\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\删除重复图片\删除重复图片\obj\Debug\删除重复图片.csprojResolveAssemblyReference.cache
+D:\删除重复图片\删除重复图片\obj\Debug\删除重复图片.Form1.resources
+D:\删除重复图片\删除重复图片\obj\Debug\删除重复图片.Properties.Resources.resources
+D:\删除重复图片\删除重复图片\obj\Debug\删除重复图片.csproj.GenerateResource.Cache
+D:\删除重复图片\删除重复图片\obj\Debug\删除重复图片.exe
+D:\删除重复图片\删除重复图片\obj\Debug\删除重复图片.pdb
