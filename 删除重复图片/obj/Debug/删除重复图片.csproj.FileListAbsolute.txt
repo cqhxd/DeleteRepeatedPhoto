@@ -11,3 +11,16 @@ D:\删除重复图片\删除重复图片\obj\Debug\删除重复图片.Properties
 D:\删除重复图片\删除重复图片\obj\Debug\删除重复图片.csproj.GenerateResource.Cache
 D:\删除重复图片\删除重复图片\obj\Debug\删除重复图片.exe
 D:\删除重复图片\删除重复图片\obj\Debug\删除重复图片.pdb
+D:\GitHub\DeleteRepeatedPhoto\删除重复图片\bin\Debug\删除重复图片.exe.config
+D:\GitHub\DeleteRepeatedPhoto\删除重复图片\obj\Debug\删除重复图片.exe
+D:\GitHub\DeleteRepeatedPhoto\删除重复图片\obj\Debug\删除重复图片.pdb
+D:\GitHub\DeleteRepeatedPhoto\删除重复图片\bin\Debug\删除重复图片.exe
+D:\GitHub\DeleteRepeatedPhoto\删除重复图片\bin\Debug\删除重复图片.pdb
+D:\GitHub\DeleteRepeatedPhoto\删除重复图片\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\GitHub\DeleteRepeatedPhoto\删除重复图片\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\GitHub\DeleteRepeatedPhoto\删除重复图片\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\GitHub\DeleteRepeatedPhoto\删除重复图片\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\GitHub\DeleteRepeatedPhoto\删除重复图片\obj\Debug\删除重复图片.csprojResolveAssemblyReference.cache
+D:\GitHub\DeleteRepeatedPhoto\删除重复图片\obj\Debug\删除重复图片.Form1.resources
+D:\GitHub\DeleteRepeatedPhoto\删除重复图片\obj\Debug\删除重复图片.Properties.Resources.resources
+D:\GitHub\DeleteRepeatedPhoto\删除重复图片\obj\Debug\删除重复图片.csproj.GenerateResource.Cache

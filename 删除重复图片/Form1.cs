@@ -66,6 +66,8 @@ namespace 删除重复图片
 
             Dictionary<string, FileInfo> Dict = new Dictionary<string, FileInfo>();
 
+            SetProcess St = new SetProcess(SetProcessSub);
+
             for (var i = 0; i < files.Length; i++)
             {
                 // key 用 ‘文件长度’ + ‘拍摄时间’ 作为Key
@@ -73,18 +75,21 @@ namespace 删除重复图片
                 // 注：拍摄时间 和 文件字节数 相同 而图片内容不一样的几率几乎为 0，如果再严谨点，加上
                 //      图片的GPS信息或其它信息联合判断Key。
                 var key = files[i].Length.ToString() + "_" + GetMediaTimeLen(files[i].FullName);
+
+                this.BeginInvoke(St, new object[] { i, files.Length });
+
                 try
                 {
                     Dict.Add(key, files[i]);
                 }
                 catch { continue; }
             }
-            //===========================================
+            //=======================================================================
 
             List<FileInfo> tmp_objs = null;
             FileInfo[] files2 = null;
 
-            SetProcess St = new SetProcess(SetProcessSub);
+
 
             for (var i = 0; i < Dict.Count; i++)
             {
